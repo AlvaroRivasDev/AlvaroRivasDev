@@ -3,39 +3,30 @@
 <p align="center">Self-Taught Student | Aspiring Software Engineer</p>
 <p align="center">
 
-<hr> <p>
-  I'm a <b>self-driven and self-taught learner</b> based in San Lorenzo, Paraguay. Currently, I'm deeply immersed in the core technologies of web development, building a strong understanding of <b>HTML, CSS, and JavaScript</b>.
-</p>
-<p>
+# 💫 About Me:
+<br>I'm a self-driven and self-taught learner based in San Lorenzo, Paraguay. Currently, I'm deeply immersed in the core technologies of web development, building a strong understanding of HTML, CSS, and JavaScript.<br><br><br>I'm fascinated by the process of problem-solving through code, the endless possibilities of continuous learning, and the efficiency gained from automating processes. My ultimate goal is to leverage these skills to build impactful open-source applications that benefit the community as a future Software Engineer.<br><br>
 
-<p>
-  I'm fascinated by the process of <b>problem-solving</b> through code, the endless possibilities of <b>continuous learning</b>, and the efficiency gained from <b>automating processes</b>. My ultimate goal is to leverage these skills to build impactful open-source applications that benefit the community as a future <b>Software Engineer</b>.
-</p>
 
-<hr> <h3 align="center">🛠️ My Current Skill Set</h3>
-<p align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvaritorivasc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvaro-rivas-844939372) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30968329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvarorivasc14@gmail.com) 
 
-<hr> <h3 align="center">💡 What Drives Me</h3>
-<ul>
-  <li><b>Building useful applications</b> that help people.</li>
-  <li><b>Contributing to open-source projects</b> and collaborating with the developer community.</li>
-  <li><b>Constantly expanding my knowledge</b> and embracing new challenges.</li>
-</ul>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlvaroRivasDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlvaroRivasDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroRivasDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr> <h3 align="center">🌐 Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/alvaro-rivas-844939372/" target="_blank" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-  <a href="mailto:alvarorivasc14@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address">
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlvaroRivasDev&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
-<hr> <p align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlvaroRivasDev&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AlvaroRivasDev&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
