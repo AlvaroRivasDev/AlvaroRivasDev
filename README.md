@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 <h1 align="center">Hello, World! I'm Alvaro Rivas 👋</h1>
 <p align="center">Self-Taught Student | Aspiring Software Engineer</p>
 
